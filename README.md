@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:00B4D8&height=220&section=header&text=akoffice933-maker&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20AI%20Agents%20%26%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:00B4D8&height=220&section=header&text=akoffice933-maker&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20AI%20Agents%20%C2%B7%20Automation&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+AI+agents+%26+multi-agent+systems;Python+%7C+TypeScript+%7C+React+%7C+FastAPI;Telegram+bots+%7C+business+automation;Algo+trading+%7C+DEX+arbitrage+%7C+FinTech)](https://git.io/typing-svg)
 
