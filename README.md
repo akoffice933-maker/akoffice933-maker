@@ -13,84 +13,23 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=akoffice933-maker&label=Profile+Views&color=00B4D8&style=flat" />
 
-</div>
-
 <br/>
 
-## 👋 About Me
+**Язык / Language:** [🇷🇺 Русский](#ru) | [🇬🇧 English](#en)
+
+</div>
+
+---
+
+<a id="ru"></a>
+
+## 👋 О себе
 
 Я full-stack разработчик с фокусом на искусственный интеллект: проектирую и выпускаю в продакшен AI-агентов, мультиагентные системы, Telegram-ботов и решения для автоматизации бизнеса.
 
 Работаю в экосистемах **Python** и **TypeScript** — FastAPI, aiogram, React, MCP. Строю продукты полного цикла: от идеи и прототипа до развёртывания — ценообразование и прогнозирование спроса для 1С, алгоритмическая торговля на Binance Futures, сканеры арбитража в Solana и Base, ML-платформы и сервисы безопасности.
 
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-<br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-<br/><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-<br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
-<br/><sub><b>FastAPI</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-<br/><sub><b>Node.js</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50"/>
-<br/><sub><b>Vite</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
-<br/><sub><b>Tailwind CSS</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-<br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-<br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-<br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-<br/><sub><b>Git</b></sub>
-</td>
-</tr>
-</table>
-
-`AI Agents` `LLM & MCP` `Multi-Agent Systems` `Telegram Bots` `Algo Trading` `Business Automation` `PWA` `REST API`
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Избранные проекты
 
 <table>
 <tr>
@@ -169,6 +108,158 @@ Telegram-бот для записи на визы США с AI-анализом 
 
 ---
 
+<a id="en"></a>
+
+## 👋 About Me
+
+I am a full-stack developer with a focus on artificial intelligence: I design and ship AI agents, multi-agent systems, Telegram bots, and business automation solutions.
+
+I work across the **Python** and **TypeScript** ecosystems — FastAPI, aiogram, React, MCP. I build products end-to-end, from idea and prototype to production: pricing and demand forecasting for 1C, algorithmic trading on Binance Futures, arbitrage scanners on Solana and Base, ML platforms, and security tooling.
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Security Scan Bot
+Telegram bot + MCP server for security scanning of projects: Nuclei, Semgrep, ClamAV, VirusTotal, Trivy. Fail-closed allowlists.
+
+`Python` `MCP` `Security`
+
+</td>
+<td width="50%">
+
+### 🤖 AI Multi-Agent Dev
+Multi-agent AI architecture for code generation — and a Telegram bot built on top of it.
+
+`TypeScript` `AI Agents` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 AI Pricing Assistant for 1C
+Market-aware demand curve forecasting and price optimization for 1C; FastAPI skills layer and integration skeleton.
+
+`1C Enterprise` `FastAPI` `ML`
+
+</td>
+<td width="50%">
+
+### 📦 SmartReplenish
+ML platform for demand forecasting and inventory optimization in retail.
+
+`Python` `Machine Learning` `Forecasting`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💹 Crypto Bot v4
+Algorithmic trading system for Binance Futures: signals, hedging, risk management.
+
+`Python` `Binance API` `Algo Trading`
+
+</td>
+<td width="50%">
+
+### 🔍 Arb Scanner v3.0
+DEX arbitrage monitoring across Solana and Base networks.
+
+`Python` `Solana` `Base`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔔 School Bell Pro — Web Edition
+School bell PWA: lesson schedules, audio library, mic recording, live broadcast, event log.
+
+`React 19` `Vite 7` `Tailwind 4`
+
+</td>
+<td width="50%">
+
+### 🛂 USA Visa Bot
+Telegram bot for US visa applications with AI analysis and validation.
+
+`Python` `aiogram` `AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+<br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+<br/><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+<br/><sub><b>Node.js</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50"/>
+<br/><sub><b>Vite</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
+<br/><sub><b>Tailwind CSS</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+<br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<br/><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
+
+`AI Agents` `LLM & MCP` `Multi-Agent Systems` `Telegram Bots` `Algo Trading` `Business Automation` `PWA` `REST API`
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -192,7 +283,7 @@ Telegram-бот для записи на визы США с AI-анализом 
 
 <div align="center">
 
-Если мои проекты были вам полезны — можно поддержать их развитие:
+Если мои проекты были вам полезны — можно поддержать их развитие · If you find my work useful, consider supporting it:
 
 **USDT / TRX · сеть Tron (TRC-20)**
 
