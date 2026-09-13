@@ -186,6 +186,22 @@ Telegram-бот для записи на визы США с AI-анализом 
 
 </div>
 
+---
+
+## ☕ Support
+
+<div align="center">
+
+Если мои проекты были вам полезны — можно поддержать их развитие:
+
+**USDT / TRX · сеть Tron (TRC-20)**
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=TJMX93T8Z2bemfXEhtjSUGw2n9owUdeDcC" width="140" alt="QR: USDT TRC-20"/>
+
+`TJMX93T8Z2bemfXEhtjSUGw2n9owUdeDcC`
+
+</div>
+
 <br/>
 
 <div align="center">
